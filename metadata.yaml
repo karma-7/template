@@ -1,0 +1,5 @@
+homepage: "www.example.com",
+documentation: "https://example.com/gtmtemplate.htm",
+versions:
+  - sha: d50ba23083464a511ff6fb15ec2f0209a5286cb6
+    changeNotes: Initial Version
